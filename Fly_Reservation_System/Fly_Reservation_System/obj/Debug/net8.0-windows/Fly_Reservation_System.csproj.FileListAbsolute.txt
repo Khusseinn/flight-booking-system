@@ -1,0 +1,17 @@
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\bin\Debug\net8.0-windows\Fly_Reservation_System.exe
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\bin\Debug\net8.0-windows\Fly_Reservation_System.deps.json
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\bin\Debug\net8.0-windows\Fly_Reservation_System.runtimeconfig.json
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\bin\Debug\net8.0-windows\Fly_Reservation_System.dll
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\bin\Debug\net8.0-windows\Fly_Reservation_System.pdb
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.Form1.resources
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.csproj.GenerateResource.cache
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.AssemblyInfoInputs.cache
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.AssemblyInfo.cs
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.csproj.CoreCompileInputs.cache
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.dll
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\refint\Fly_Reservation_System.dll
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.pdb
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.genruntimeconfig.cache
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\ref\Fly_Reservation_System.dll
+C:\Users\mamma\source\repos\Fly_Reservation_System\Fly_Reservation_System\obj\Debug\net8.0-windows\Fly_Reservation_System.Properties.Resources.resources
